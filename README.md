@@ -1,3 +1,5 @@
+:warning: **NOTE: THESE SCRIPTS WERE MADE FOR [AHK v2](https://www.autohotkey.com/download/) ONLY (won't work with the current default (v1.1) installer)**
+
 # AutoHotKey-Scripts
 
 
